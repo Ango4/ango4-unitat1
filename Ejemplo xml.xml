@@ -1,0 +1,18 @@
+<menu_desayuno>
+  <comida>
+    <nombre>Gofres</nombre>
+    <precio>2.50€</precio>
+    <descripcion>
+      Dos deliciosos gofres Belgas con sirope de arce o chocolate
+    </descripcion>
+    <calorias>240</calorias>
+  </comida>
+  <comida>
+    <nombre>Yogurt Griego con cereales</nombre>
+    <precio>3.20€</precio>
+    <descripcion>
+      Una taza de yogurt griego sin azúcar con copos de trigo o cereales muesli
+    </descripcion>
+    <calorias>180</calorias>
+  </comida>
+</menu_desayuno>
